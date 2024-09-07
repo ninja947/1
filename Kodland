@@ -1,0 +1,3 @@
+import random
+o_mnie = ["Lubię grać w gry.", "Mam kota i 2 psy.", "Jestem dumny z projektu o nazwie 'CloVer'.", "Lubię anime.", "Moim ulubionym  daniem jest sushi."]
+print(random.choice(o_mnie))
